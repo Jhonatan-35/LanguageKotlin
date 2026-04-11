@@ -12,12 +12,12 @@ The main purpose of learning the Java programming language is to gain a deeper u
 
 # Development Environment
 
--Eclipse
 -Visual/studio
 -GitHub
--Java
+-IntelliJ IDEA
+-Kotlin
 
 # Useful Websites
 
 
-* [Java tutorial](https://www.tutorialesprogramacionya.com/javaya/index.php?inicio=0)
+* [Kotlin tutorial](https://www.tutorialesprogramacionya.com/kotlinya/index.php?inicio=0)
