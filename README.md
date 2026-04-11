@@ -2,9 +2,9 @@
 Learn the Kotlin language in 2 weeks by doing practice exercises and creating a Guess Game
 # Overview
 Kotlin Language Project
-As a general description, the Java programming language learning course involves learning different topics over two weeks, applying each topic through exercises, interacting with different data variables, and creating various projects. Above all, it focuses on putting the new programming language into practice.
+Well, as a general overview, the main Kotlin programming language course involves learning about different specific main topics within two weeks. Each of the topics covered in these two weeks will be applied through practical exercises and, above all, interactions and checks. A key part of this is putting the knowledge learned in this language into practice.
 
-The main purpose of learning the Java programming language is to gain a deeper understanding of this new programming language, to be able to apply it and create projects with this new programming language, and to create a main project that helps to apply the knowledge within the Java software development environment.
+The overall purpose of learning the Kotlin programming language is to explore more options compared to other programming languages, and to learn quickly and dynamically, allowing for rapid application and, above all, comprehensive mastery of this programming language within Kong. Ultimately, the goal is to be able to create a project based on the acquired knowledge and how to develop a comprehensive project.
 
 
 
